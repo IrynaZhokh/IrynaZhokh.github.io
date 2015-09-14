@@ -1,0 +1,36 @@
+
+.red {
+    color: white;
+    background-color: red;
+}
+#red:checked ~ label[for="red"]{
+    color: rgba(255,0,0, 0.4);
+}
+
+
+
+
+
+/*input[type=checkbox]:checked ~ .red {
+    color: white;
+}
+
+
+
+
+
+
+
+
+/*input + label
+{
+    color: red;
+}
+input:checked + label
+{
+    color: blue;
+}
+input:disabled + label
+{
+    color: green;
+}*/

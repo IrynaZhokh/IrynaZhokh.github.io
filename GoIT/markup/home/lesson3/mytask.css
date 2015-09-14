@@ -1,0 +1,38 @@
+ p:first-letter {
+    color: red;
+     font-size: 34px;
+   }
+em{
+background-color: green;
+ color: white   
+}
+h1, h2{
+    color: orange;
+}
+#warehouse h2 {
+    color: blue;
+}
+.fruits-list { 
+}
+ul li { 
+    font-weight:bold;
+}
+.fruits-list {
+color: gray;
+}
+.vegetables-list {
+color: red;
+}
+#warehouse .fruits-list{
+color: green;
+}
+thead{
+    font-weight:bold;
+    text-align:center;
+}
+tbody{
+    text-align:center;
+    background-color: green;
+    color: white;
+}
+
