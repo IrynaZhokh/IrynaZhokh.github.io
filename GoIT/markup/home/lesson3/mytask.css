@@ -35,4 +35,8 @@ tbody{
     background-color: green;
     color: white;
 }
+tbody td:nth-child(0n+1) {
+    color: orange;
+	text-align: left;
+	background-color: white;
 

@@ -1,11 +1,10 @@
- p
+
+article p:first-of-type
 {
-    font-size: 24px;
+text-transform: uppercase;
 }
-p + p{
-    font-size: 18px;
-}
-p + p + p
+
+article p:last-of-type
 {
-    color:\#999;
+	background-color: #999;
 }
